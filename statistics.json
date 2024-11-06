@@ -1,0 +1,50 @@
+{
+  "https://superset.m-net.in/bi/site/site1/dashboards/6265efb8-258f-4ad5-9461-7a952c6df353/spends%20roi/tv%20spends?showmydashboards=1" : {
+    "transaction" : "https://superset.m-net.in/bi/site/site1/dashboards/6265efb8-258f-4ad5-9461-7a952c6df353/spends%20roi/tv%20spends?showmydashboards=1",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 4292.00100000001,
+    "medianResTime" : 4177.5,
+    "minResTime" : 707.0,
+    "maxResTime" : 8860.0,
+    "pct1ResTime" : 7318.9,
+    "pct2ResTime" : 7967.849999999999,
+    "pct3ResTime" : 8501.2,
+    "throughput" : 9.702050043174122,
+    "receivedKBytesPerSec" : 198.99624712576767,
+    "sentKBytesPerSec" : 5.713218921908199
+  },
+  "Test" : {
+    "transaction" : "Test",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 4292.0010000000075,
+    "medianResTime" : 4177.5,
+    "minResTime" : 707.0,
+    "maxResTime" : 8860.0,
+    "pct1ResTime" : 7318.9,
+    "pct2ResTime" : 7967.849999999999,
+    "pct3ResTime" : 8501.2,
+    "throughput" : 9.702050043174122,
+    "receivedKBytesPerSec" : 198.99624712576767,
+    "sentKBytesPerSec" : 5.713218921908199
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 4292.00100000001,
+    "medianResTime" : 4177.5,
+    "minResTime" : 707.0,
+    "maxResTime" : 8860.0,
+    "pct1ResTime" : 7318.9,
+    "pct2ResTime" : 7967.849999999999,
+    "pct3ResTime" : 8501.2,
+    "throughput" : 9.702050043174122,
+    "receivedKBytesPerSec" : 198.99624712576767,
+    "sentKBytesPerSec" : 5.713218921908199
+  }
+}
